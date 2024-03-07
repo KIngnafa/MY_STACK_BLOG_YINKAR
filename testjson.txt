@@ -1,0 +1,13 @@
+{
+    "Credentials": {
+        "AccessKeyId": "ASIA47CRWKR7MINCHMLN",
+        "SecretAccessKey": "1JwRN9lcCvbMb3zR6FPV1A+JfJU4/5dfMs/n2rkC",
+        "SessionToken": "IQoJb3JpZ2luX2VjELz//////////wEaCXVzLWVhc3QtMSJGMEQCIGdJjLtzeVfnXNWbSgvSAWKjjtlTMg6uCGH+VEtiRycYAiBYUQL/Ir4yayWoQNcwNRJBKenk7L8OwkBg5ddjpxx9gCqiAgi1//////////8BEAAaDDg5MTM3NzA0NjY1NCIMO4JMmRc9g8fsikGtKvYBK6EMHECf3IYGvOj+W/EbmX67podGkVP7onritWwIVg3WqZbRNQN4rFVWhYoSv0NtHBM8B0mzsQfYQHp+v1dtBXGvYURsczFGu1BhdH1xkua077MzH770sXpHmmdnnlViJWJQYi6JtyAhans4X6FWdTH9SDts25GXr+eWTfLAtfR05knPSlP+5ZCYPBvANaplz0PIbJZM2hfF1CvZbWhuGEMsYbfSkoXNeTL/PpDt3XqW3LB88euApV6dWyWzh9xaT4sTYbBd8mzRhGnWgfGRPjwwmGR4/CAd8zaf1lhFIiRnJB+gfdUE33yP9kuHvDNrL17uaBFzMLnvpK8GOp4BLuBRgEvEqGIscJwZvPAK9LoILovEiHaTnBosLFuVAMqc0b9p58yd4DucTJ1i8pd5h1hvU95t3jYsxHg/Vk3POApFZVfRoFGebOi4GPMgslDbJXYYBLdk+8VhxQs/0tEVBgOSfJI5Km1GJirMolFzeUiA6BwNPFakc4DphqYu5QC8x83pHFzte6udEXw8N1e98Dh75Uq3Y+u+8znfZAE=",
+        "Expiration": "2024-03-07T04:42:49+00:00"
+    },
+    "AssumedRoleUser": {
+        "AssumedRoleId": "AROA47CRWKR7MLZX3YUDH:Engineer@Dev",
+        "Arn": "arn:aws:sts::891377046654:assumed-role/Engineer/Engineer@Dev"
+    }
+}
+
